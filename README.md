@@ -11,5 +11,7 @@
 1. Added the HelloControllerTest sample and ran the test... It passed!
 1. Commited and pushed baseline code...
 
-## Next?
+## Next - Web content
+
+1. Apparently Spring supports [four templating engines](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#web.servlet.spring-mvc.binding-initializer): Freemarker, Thymeleaf, Groovy and Mustache.
 
